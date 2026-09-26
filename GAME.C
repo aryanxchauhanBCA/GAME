@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <conio.h>
 
-int main()
+void main()
 {
     int a[3][3];
     int i, j;
